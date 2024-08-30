@@ -46,23 +46,3 @@ test_auth_page_negative - негативные тесты страницы ав�
 
 test_new_password_negative - негативные тесты страницы восстановления пароля.
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-Python
-100.0%
-Footer
